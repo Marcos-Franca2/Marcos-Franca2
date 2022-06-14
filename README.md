@@ -1,7 +1,7 @@
 ## Olá, Sou Marcos França Amante de tecnologia. Porem bem novo na programação
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaballerini">
-  <img height="160em" left = 0 src="https://github-readme-stats.vercel.app/api?username=Marcos-Franca2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Franca2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Franca2&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
