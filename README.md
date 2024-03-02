@@ -11,4 +11,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
  
-![snake gif](https://github.com/YOUR_USERNAME/Marcos-Franca2/blob/output/github-contribution-grid-snake.gif)
+
